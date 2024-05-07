@@ -1,0 +1,20 @@
+.course_main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.course {
+  width: 230px;
+  height: 250px;
+  border: 1px dashed rgb(17, 148, 203);
+  padding: 50px;
+}
+
+.course_link {
+  text-decoration: none;
+  color: black;
+}
